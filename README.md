@@ -34,6 +34,7 @@ Welcome to the OpenGL Bouncing DVD Logo project! This C++ application showcases 
  ```sh
   git clone https://github.com/Tlamir/OpenGL_DVD_Logo.git
    cd OpenGL_DVD_Logo
+   cd OpenglApp
 ```
 3.Create a build directory and navigate to it:
  ```sh
